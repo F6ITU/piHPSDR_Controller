@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name db9mat)(type Legacy)(uri ${KIPRJMOD}/lib/db9mat.lib)(options "")(descr ""))
+  (lib (name piHPSDR_Controller-rescue)(type Legacy)(uri ${KIPRJMOD}/piHPSDR_Controller-rescue.lib)(options "")(descr ""))
+)
